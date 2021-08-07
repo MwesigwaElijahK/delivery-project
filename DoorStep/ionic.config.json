@@ -1,0 +1,7 @@
+{
+  "name": "DoorStep",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
